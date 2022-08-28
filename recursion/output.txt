@@ -1,24 +1,4 @@
-abcd
-abdc
-acbd
-acdb
-adcb
-adbc
-bacd
-badc
-bcad
-bcda
-bdca
-bdac
-cbad
-cbda
-cabd
-cadb
-cdab
-cdba
-dbca
-dbac
-dcba
-dcab
-dacb
-dabc
+Constructing base 
+Constructing derived 
+Destructing derived 
+Destructing base 
